@@ -53,6 +53,7 @@
 |         | zhanglabs          | https://mirror.xyz/wangzhan.eth                               | Web3; ENS               |
 |         | avc                | https://avc.mirror.xyz/                                       | Web3; DeFi; Crypto      |
 |         | msfew              | https://mirror.xyz/msfew.eth                                  | Web3; DeFi              |
+|         | Linda Xie          | https://linda.mirror.xyz/                                     | Web3; DeFi; DAO         |
 
 ## 什么是 Mirror
 
