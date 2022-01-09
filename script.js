@@ -125,9 +125,9 @@ ${tableContentInMD}
 
 Mirror 的 RSS 链接需要做一下说明。
 
-- Mirror 现在有两种格式的链接，一种是 https://xxx.mirror.xyz，另一种是 https://mirror.xyz/xxx；
-- 如果是 https://xxx.mirror.xyz，RSS 的订阅链接是 https://xxx.submirror.xyz/；
-- 如果是 https://mirror.xyz/xxx，RSS 的订阅链接是 https://submirror.xyz/xxx。
+- Mirror 现在有两种格式的链接，一种是 \`https://xxx.mirror.xyz\`，另一种是 \`https://mirror.xyz/xxx\`；
+- 如果是 \`https://xxx.mirror.xyz\`，RSS 的订阅链接是 \`https://xxx.submirror.xyz/\`；
+- 如果是 \`https://mirror.xyz/xxx\`，RSS 的订阅链接是 \`https://submirror.xyz/xxx\`。
 
 ## 为什么要收集这张列表
 
