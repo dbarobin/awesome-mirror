@@ -83,17 +83,18 @@ async function getResultAndUpdateREADME() {
   table.sort((a, b) => (b[4] - a[4]) || (a[0] - b[0]));
 
   const newTable = table.map(row => {
-    const subscribeCount = row[4] >= 1000 ? row[4] : (row[4] + '').replace(/\d/g, '*');
+    // const subscribeCount = row[4] >= 1000 ? row[4] : (row[4] + '').replace(/\d/g, '*');
     return [
-      row[4] >= 0 ? `[![](https://badgen.net/badge/icon/${subscribeCount}?icon=rss&label)](${row[2]})` : '',
+      // row[4] >= 0 ? `[![](https://badgen.net/badge/icon/${subscribeCount}?icon=rss&label)](${row[2]})` : '',
       row[0].replace(/\|/g, '&#124;'),
-      row[1],
+      row[2],
       row[3]
     ]
   });
 
   // update README
-  const tableContentInMD = markdownTable([['RSS 订阅数', '简介', '链接', '标签'], ...newTable]);
+  // const tableContentInMD = markdownTable([['RSS 订阅数', '简介', '链接', '标签'], ...newTable]);
+  const tableContentInMD = markdownTable([['简介', '订阅链接', '标签'], ...newTable]);
 
   const readmeContent = `
 # 优质 Mirror 信息源列表
@@ -109,7 +110,7 @@ async function getResultAndUpdateREADME() {
 
 ## Mirror 信息源列表
 
-> 列表上的信息源订阅数不多，RSS 订阅数暂时无法显示。
+> 列表上的信息源订阅数不多，暂时取消展示 RSS 订阅数。
 
 ${tableContentInMD}
 
