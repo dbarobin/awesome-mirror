@@ -109,7 +109,7 @@ async function getResultAndUpdateREADME() {
 
 ## Mirror 信息源列表
 
-> 暂时根据各 RSS 服务订阅数据排了个先后顺序。
+> 列表上的信息源订阅数不多，RSS 订阅数暂时无法显示。
 
 ${tableContentInMD}
 
