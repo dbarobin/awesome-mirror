@@ -1,0 +1,24 @@
+{
+  "name": "awesome-mirror",
+  "version": "1.0.0",
+  "description": "Awesome mirror.xyz.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbarobin/awesome-mirror.git"
+  },
+  "keywords": [],
+  "author": "dbarobin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dbarobin/awesome-mirror/issues"
+  },
+  "homepage": "https://github.com/dbarobin/awesome-mirror#readme",
+  "dependencies": {
+    "markdown-table": "^1.1.3",
+    "node-fetch": "^2.6.1"
+  }
+}
