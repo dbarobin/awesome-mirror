@@ -123,6 +123,12 @@ ${tableContentInMD}
 2. 提交 PR
 3. (自动) PR 被 merge 之后 README 通过 [./script.js](./script.js) 生成
 
+Mirror 的 RSS 链接需要做一下说明。
+
+- Mirror 现在有两种格式的链接，一种是 https://xxx.mirror.xyz，另一种是 https://mirror.xyz/xxx；
+- 如果是 https://xxx.mirror.xyz，RSS 的订阅链接是 https://xxx.submirror.xyz/；
+- 如果是 https://mirror.xyz/xxx，RSS 的订阅链接是 https://submirror.xyz/xxx。
+
 ## 为什么要收集这张列表
 
 Mirror 上的内容比较分散，有了 submirror.xyz 的加持，得以让 Mirror 支持 RSS 订阅成为可能。这个列表就是让 Web3 参与者快速地找到信息源。
