@@ -9,7 +9,7 @@ on:
       - 'script.js'
       - '.github/workflows/updateInfo.yml'
   schedule:
-    - cron:  '35 * * * *'
+    - cron:  '0 0 * * MON'
 
 jobs:
   build:
