@@ -55,6 +55,7 @@
 | msfew              | https://submirror.xyz/msfew.eth                                  | Web3; DeFi              |
 | Linda Xie          | https://linda.submirror.xyz/                                     | Web3; DeFi; DAO         |
 | Kurt Pan           | https://submirror.xyz/suzuha.eth                                 | 区块链; 密码学; Web3          |
+| 0xShangdidi        | https://submirror.xyz/shangdidi.eth                              | Web3; DAO               |
 
 ## 什么是 Mirror
 
