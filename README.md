@@ -22,7 +22,7 @@
 | Vincent                | https://submirror.xyz/vniu.eth                                   | DeFi; GameFi            |
 | ChessMaster2077        | https://submirror.xyz/chessmaster2077.eth                        | Web3; NFT               |
 | 深潮 TechFlow            | https://submirror.xyz/0x4e8F1cf9a9dDCAdeE3340daDA2CbA5508D340B4E | Web3; DeFi; 媒体          |
-| 屎币日报                   | https://submirror.xyz/shitcoindaily.eth                          | Web3                    |
+| 屎币日报 ShitcoinDaily     | https://submirror.xyz/shitcoindaily.eth                          | Web3                    |
 | 0xTodd                 | https://submirror.xyz/0x17f3F81860345567482E1D232FB5B6f8bD77f3Bd | Web3; DeFi; DAO         |
 | DFarm                  | https://submirror.xyz/dfarm.eth                                  | Web3; DeFi              |
 | CAOYIN                 | https://submirror.xyz/0x357AD9662364AeD7316ACBdbC76A193983E7c731 | Web3; NFT               |
@@ -92,6 +92,11 @@
 | Twoplus                | https://submirror.xyz/0x09362a31a90F01E18bB4a7B16Bc82796E8B79a7e | DAO                     |
 | VÉRITÉ                 | https://submirror.xyz/verite.eth                                 | Web3                    |
 | Lee Martin             | https://submirror.xyz/leemartin.eth                              | NFT                     |
+| Cavin                  | https://submirror.xyz/cavin.eth                                  | Web3                    |
+| Zain Immortal Khan     | https://submirror.xyz/zainkhan.eth                               | NFT                     |
+| EthereumCN             | https://submirror.xyz/ethereumcn.eth                             | 以太坊                     |
+| David Cai              | https://submirror.xyz/0x56706F118e42AE069F20c5636141B844D1324AE1 | 以太坊; DeFi               |
+| 搓枣师傅                   | https://submirror.xyz/momoswap.eth                               | Web3                    |
 
 ## 什么是 Mirror
 
