@@ -7,7 +7,7 @@ const rows = data.toString().split('\n');
 
 const table = rows
   .map(row => row.split(',').map(column => column.trim()))
-  .filter((row, i) => row.length === 5 && i !== 0)
+  .filter((row, i) => row.length === 4 && i !== 0)
   .map(row => row.push(-1) && row) // row[4] to store count of RSS subscribers
 
 async function getLatestSubstatsRes(feedUrl, cacheFilename) {
@@ -88,14 +88,13 @@ async function getResultAndUpdateREADME() {
       // row[4] >= 0 ? `[![](https://badgen.net/badge/icon/${subscribeCount}?icon=rss&label)](${row[2]})` : '',
       row[0].replace(/\|/g, '&#124;'),
       row[2],
-      row[3],
-      row[4]
+      row[3]
     ]
   });
 
   // update README
   // const tableContentInMD = markdownTable([['RSS 订阅数', '简介', '链接', '标签'], ...newTable]);
-  const tableContentInMD = markdownTable([['简介', '订阅链接', '语言', '标签'], ...newTable]);
+  const tableContentInMD = markdownTable([['简介', '订阅链接', '标签'], ...newTable]);
 
   const readmeContent = `
 # 优质 Mirror 信息源列表
