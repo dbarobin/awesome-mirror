@@ -97,6 +97,13 @@
 | EthereumCN             | https://submirror.xyz/ethereumcn.eth                             | 以太坊                     |
 | David Cai              | https://submirror.xyz/0x56706F118e42AE069F20c5636141B844D1324AE1 | 以太坊; DeFi               |
 | 搓枣师傅                   | https://submirror.xyz/momoswap.eth                               | Web3                    |
+| ranbuta                | https://submirror.xyz/ranbuta.eth                                | Web3                    |
+| Pact Collective        | https://submirror.xyz/pactcollective.eth                         | Web3                    |
+| Varras                 | https://submirror.xyz/varras.eth                                 | NFT                     |
+| Alice Peng             | https://submirror.xyz/0x935B9Ddf44EC1E1b3A79473965aef9EaD37dA79a | Web3                    |
+| Chibin                 | https://submirror.xyz/chibingmi.eth                              | Web3; DeFi              |
+| Aave News              | https://aavegrants.submirror.xyz/                                | DeFi                    |
+| Madhavan Malolan       | https://mirror.xyz/madhavanmalolan.eth                           | Web3                    |
 
 ## 什么是 Mirror
 
