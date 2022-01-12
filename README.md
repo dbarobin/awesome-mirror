@@ -104,6 +104,7 @@
 | Chibin                 | https://submirror.xyz/chibingmi.eth                              | Web3; DeFi              |
 | Aave News              | https://aavegrants.submirror.xyz/                                | DeFi                    |
 | Madhavan Malolan       | https://submirror.xyz/madhavanmalolan.eth                        | Web3                    |
+| by                     | https://mirror.xyz/0x455E0e9d8b0c0541F4f26ECeec2Ea54504e9b4C9    | DeFi; Terra             |
 
 ## 什么是 Mirror
 
