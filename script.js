@@ -7,7 +7,7 @@ const rows = data.toString().split('\n');
 
 const table = rows
   .map(row => row.split(',').map(column => column.trim()))
-  .filter((row, i) => row.length === 4 && i !== 0)
+  .filter((row, i) => row.length === 5 && i !== 0)
   .map(row => row.push(-1) && row) // row[4] to store count of RSS subscribers
 
 async function getLatestSubstatsRes(feedUrl, cacheFilename) {
