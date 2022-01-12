@@ -103,7 +103,7 @@
 | Alice Peng             | https://submirror.xyz/0x935B9Ddf44EC1E1b3A79473965aef9EaD37dA79a | Web3                    |
 | Chibin                 | https://submirror.xyz/chibingmi.eth                              | Web3; DeFi              |
 | Aave News              | https://aavegrants.submirror.xyz/                                | DeFi                    |
-| Madhavan Malolan       | https://mirror.xyz/madhavanmalolan.eth                           | Web3                    |
+| Madhavan Malolan       | https://submirror.xyz/madhavanmalolan.eth                        | Web3                    |
 
 ## 什么是 Mirror
 
