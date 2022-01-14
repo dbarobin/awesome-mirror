@@ -105,6 +105,33 @@
 | Aave News              | https://aavegrants.submirror.xyz/                                | DeFi                    |
 | Madhavan Malolan       | https://submirror.xyz/madhavanmalolan.eth                        | Web3                    |
 | by                     | https://submirror.xyz/0x455E0e9d8b0c0541F4f26ECeec2Ea54504e9b4C9 | DeFi; Terra             |
+| DCSaxton               | https://submirror.xyz/saxton.eth                                 | Web3                    |
+| wong2                  | https://submirror.xyz/wong2.eth                                  | Web3                    |
+| Dayima                 | https://submirror.xyz/rolexpunks.eth                             | Web3; NFT               |
+| 多多加密日记                 | https://submirror.xyz/fdd.eth                                    | Web3; Crypto            |
+| 星火DAO                  | https://submirror.xyz/0x731367992634bBd7782a468cB9036D0700639830 | DAO                     |
+| Thomas Koutsaplis      | https://submirror.xyz/koutsaplis.eth                             | Web3                    |
+| Cryptouf               | https://submirror.xyz/cryptouf.eth                               | DAO                     |
+| Jongho Daniel Park     | https://submirror.xyz/0x80628BC93cC2b8a11043eEe455Cbf8981DB1195F | Web3                    |
+| Musashi                | https://submirror.xyz/0x6b872e9Ae3D38F2c5b79320366ec6173D327213b | Web3                    |
+| DAO Masters            | https://submirror.xyz/daomstr.eth                                | DAO                     |
+| Oxaciano               | https://submirror.xyz/0x9Ed6749B5e99059f57f516832982f4E2a212bBf8 | GameFi                  |
+| SuperRare              | https://superrare.submirror.xyz                                  | NFT                     |
+| Mirror Club            | https://mclub.submirror.xyz                                      | Mirror                  |
+| crisgarner.eth         | https://submirror.xyz/crisgarner.eth                             | Web3; DeFi              |
+| Tom                    | https://submirror.xyz/tomborgers.eth                             | 以太坊                     |
+| lorenhuang.eth         | https://submirror.xyz/lorenhuang.eth                             | DeFi                    |
+| Vriti Saraf            | https://submirror.xyz/0xb3C5DB4b191F7f42ed1e12FCe181300721Dee774 | DeFi                    |
+| CityDAO                | https://city.submirror.xyz                                       | DAO                     |
+| Daeshawn.eth           | https://submirror.xyz/daeshawn.eth                               | Web3                    |
+| mikelightz             | https://submirror.xyz/mikelightz.eth                             | NFT                     |
+| lisawocken             | https://submirror.xyz/0x74c02fE52A544d3d1775796A9037cE560C40f581 | DAO                     |
+| b_sconeboy             | https://submirror.xyz/bscone.eth                                 | Web3                    |
+| CHENHUI                | https://submirror.xyz/bttb.eth                                   | Web3                    |
+| ChainCatcher 链捕手       | https://submirror.xyz/0x8C4d5E90196325FB22Fff37C97D7984a37e51D11 | Web3; DeFi; 媒体          |
+| Layer3                 | https://submirror.xyz/0x7B0befc5B043148Cd7bD5cFeEEf7BC63D28edEC0 | Web3                    |
+| 0xEvan                 | https://submirror.xyz/0x829Ceb00fC74bD087b1e50d31ec628a90894cD52 | DeFi                    |
+| Intel Chen             | https://submirror.xyz/0x803a0261275d30C7Ab5EAA37F47fD044c5c633Bb | DeFi                    |
 
 ## 什么是 Mirror
 
