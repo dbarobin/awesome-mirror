@@ -42,7 +42,7 @@
 | RJ                        | https://submirror.xyz/0xAEa29c04E32EBCE118ea8cee975a3317190cCCdd | Web3; 教程; Arweave       |
 | raccooncrypto.eth         | https://submirror.xyz/raccooncrypto.eth                          | Web3; DeFi; DAO         |
 | 夜思晨                       | https://submirror.xyz/0x3D1163E402eC0c0F58297E1e88Bd992b729eE520 | 公链; Cosmos              |
-| BTCdayu                   | https://submirror.xyz/0x7A470d8014a122245b0410774618B7ED0E990Daa | Web3; DeFi; DAO; PEOPLE |
+| BTCdayu                   | https://submirror.xyz/btcdayu.eth                                | Web3; DeFi; DAO; PEOPLE |
 | 郭宇                        | https://submirror.xyz/guoyu.eth                                  | Web3; NFT               |
 | Bitcoin fix this          | https://submirror.xyz/0x5fa5381ade2eeC5459ce93af57b5feE7d63E6831 | Bitcoin                 |
 | a10.eth                   | https://submirror.xyz/a10.eth                                    | DeFi                    |
@@ -113,6 +113,7 @@
 | Thomas Koutsaplis         | https://submirror.xyz/koutsaplis.eth                             | Web3                    |
 | Cryptouf                  | https://submirror.xyz/cryptouf.eth                               | DAO                     |
 | Jongho Daniel Park        | https://submirror.xyz/0x80628BC93cC2b8a11043eEe455Cbf8981DB1195F | Web3                    |
+| syshen                    | https://submirror.xyz/0x956f206BF42B6FCEacacBEb759Bc234921B55eCf | Web3                    |
 | Musashi                   | https://submirror.xyz/0x6b872e9Ae3D38F2c5b79320366ec6173D327213b | Web3                    |
 | DAO Masters               | https://submirror.xyz/daomstr.eth                                | DAO                     |
 | Oxaciano                  | https://submirror.xyz/0x9Ed6749B5e99059f57f516832982f4E2a212bBf8 | GameFi                  |
@@ -127,6 +128,7 @@
 | mikelightz                | https://submirror.xyz/mikelightz.eth                             | NFT                     |
 | lisawocken                | https://submirror.xyz/0x74c02fE52A544d3d1775796A9037cE560C40f581 | DAO                     |
 | b_sconeboy                | https://submirror.xyz/bscone.eth                                 | Web3                    |
+| Hebao                     | https://submirror.xyz/0xe1fa2F90618b2e37e03D6C8fbE19AdC68714782F | DeFi                    |
 | CHENHUI                   | https://submirror.xyz/bttb.eth                                   | Web3                    |
 | ChainCatcher 链捕手          | https://submirror.xyz/0x8C4d5E90196325FB22Fff37C97D7984a37e51D11 | Web3; DeFi; 媒体          |
 | Layer3                    | https://submirror.xyz/0x7B0befc5B043148Cd7bD5cFeEEf7BC63D28edEC0 | Web3                    |
@@ -134,6 +136,14 @@
 | Intel Chen                | https://submirror.xyz/0x803a0261275d30C7Ab5EAA37F47fD044c5c633Bb | DeFi                    |
 | Nimrod Kamer              | https://submirror.xyz/nnimrodd.eth                               | NFT                     |
 | Decoin Research Institute | https://submirror.xyz/dere.eth                                   | Web3; Cosmos; 投研        |
+| axwells.eth               | https://submirror.xyz/0x257aF56D3389070f0Bd98Ab29829b12282Dae855 | Web3; DeFi              |
+| Fat Garage                | https://submirror.xyz/0x65a0Af703047dfDd270361659d02f4f0E8547202 | DeFi                    |
+| owenzhang                 | https://submirror.xyz/0x29Faeb62f4e9E1456c2fEED5c6f27B13Fae91Dae | DeFi; Nansen            |
+| 头雁区块链                     | https://submirror.xyz/0xab722fcb8902c3B98c622db66E0b3247F7691eCA | DeFi; Web3              |
+| 上官博玉                      | https://submirror.xyz/0xfAd631c21cD293eE714b56198182817ba768B158 | DeFi; Web3              |
+| Xing                      | https://submirror.xyz/0x8eC46A6d1AFda45f5A334Fe85016FB39D9D8Caee | DeFi; Web3; NFT         |
+| ColorEye                  | https://submirror.xyz/0xb756cb53cBB0F34ccE7Ab4b848C886b99f82764B | DeFi; Web3; NFT         |
+| BlocChainTeahouse         | https://submirror.xyz/chainhouse.eth                             | Web3; DeFi              |
 
 ## 什么是 Mirror
 
