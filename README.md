@@ -132,6 +132,7 @@
 | Layer3                 | https://submirror.xyz/0x7B0befc5B043148Cd7bD5cFeEEf7BC63D28edEC0 | Web3                    |
 | 0xEvan                 | https://submirror.xyz/0x829Ceb00fC74bD087b1e50d31ec628a90894cD52 | DeFi                    |
 | Intel Chen             | https://submirror.xyz/0x803a0261275d30C7Ab5EAA37F47fD044c5c633Bb | DeFi                    |
+| Nimrod Kamer           | https://submirror.xyz/nnimrodd.eth                               | NFT                     |
 
 ## 什么是 Mirror
 
