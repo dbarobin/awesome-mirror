@@ -147,6 +147,11 @@
 | Weilgre                   | https://submirror.xyz/0xd10c3aCeB306eA9A2F5494d81F411d33F1ef9975 | NFT; DAO                |
 | oic.eth                   | https://submirror.xyz/oic.eth                                    | Web3                    |
 | happmaoo                  | https://submirror.xyz/readmore.eth                               | Web3                    |
+| Ori Valderrama            | https://submirror.xyz/0x0ed18e07F41dc48871Ec2193324669F3db0037fb | Web3                    |
+| ryangtanaka.eth           | https://submirror.xyz/ryangtanaka.eth                            | Web3                    |
+| PubDAO                    | https://pubdao.submirror.xyz/                                    | Web3                    |
+| lightbird.eth             | https://submirror.xyz/lightbird.eth                              | Web3                    |
+| 秃 GaoFlynn                | https://submirror.xyz/cryptolunatic.eth                          | DeFi                    |
 
 ## 什么是 Mirror
 
