@@ -144,6 +144,9 @@
 | Xing                      | https://submirror.xyz/0x8eC46A6d1AFda45f5A334Fe85016FB39D9D8Caee | DeFi; Web3; NFT         |
 | ColorEye                  | https://submirror.xyz/0xb756cb53cBB0F34ccE7Ab4b848C886b99f82764B | DeFi; Web3; NFT         |
 | BlocChainTeahouse         | https://submirror.xyz/chainhouse.eth                             | Web3; DeFi              |
+| Weilgre                   | https://submirror.xyz/0xd10c3aCeB306eA9A2F5494d81F411d33F1ef9975 | NFT; DAO                |
+| oic.eth                   | https://submirror.xyz/oic.eth                                    | Web3                    |
+| happmaoo                  | https://submirror.xyz/readmore.eth                               | Web3                    |
 
 ## 什么是 Mirror
 
