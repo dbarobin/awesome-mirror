@@ -155,6 +155,16 @@
 | Staq - short crypto articles | https://submirror.xyz/doorvesh.eth                               | Web3                    |
 | Fab                          | https://submirror.xyz/fabrizio.eth                               | DAO; Web3               |
 | 0x9C65                       | https://submirror.xyz/0x9C65AC91C38598D95099068C0634a5d3276de51c | NFT                     |
+| Michaelg.eth                 | https://submirror.xyz/michaelg.eth                               | NFT                     |
+| Almond                       | https://submirror.xyz/almndbtr.eth                               | Web3                    |
+| Teji                         | https://submirror.xyz/teji.eth                                   | NFT                     |
+| 0x8477                       | https://submirror.xyz/0x8477981dbd957ae4c6a249544E43915218948404 | DAO; Web3; Crypto       |
+| camoufly                     | https://submirror.xyz/camoufly.eth                               | NFT                     |
+| Scott Martinez               | https://submirror.xyz/scottmartinez.eth                          | Web3                    |
+| cgunn                        | https://submirror.xyz/cgunn.eth                                  | NFT                     |
+| Sam Hysell                   | https://submirror.xyz/samhysell.eth                              | NFT                     |
+| Taipei Ethereum Meetup       | https://ethtaipei.submirror.xyz/                                 | Web3; 以太坊; DeFi         |
+| metabody                     | https://submirror.xyz/0x69d24494328051C3F3ee0480D593E6722Eaf5869 | Web3                    |
 
 ## 什么是 Mirror
 
