@@ -172,6 +172,7 @@
 | Trent Lee                    | https://submirror.xyz/tookmymoney.eth                            | Web3                    |
 | 创业会计佬 h 的学习笔记                | https://submirror.xyz/0x5a18682ed5E56Cb026c39ba216592B76ceAe5887 | Web3                    |
 | 0x8D07                       | https://submirror.xyz/0x8D07CFb29762A7561f004D042DDd47648640B23f | 以太坊                     |
+| Sunny He                     | https://submirror.xyz/0x9E537Cb5D5c86CC1F2679c030b3605b59DF54426 | 投研; Web3                |
 
 ## 什么是 Mirror
 
