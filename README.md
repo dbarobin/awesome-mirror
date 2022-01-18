@@ -171,6 +171,7 @@
 | 0x9f9f                       | https://submirror.xyz/0x9f9f98e28456EEEFC4Af1c990a170e2B0D2d6027 | Web3                    |
 | Trent Lee                    | https://submirror.xyz/tookmymoney.eth                            | Web3                    |
 | 创业会计佬 h 的学习笔记                | https://submirror.xyz/0x5a18682ed5E56Cb026c39ba216592B76ceAe5887 | Web3                    |
+| 0x8D07                       | https://mirror.xyz/0x8D07CFb29762A7561f004D042DDd47648640B23f    | 以太坊                     |
 
 ## 什么是 Mirror
 
