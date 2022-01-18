@@ -176,6 +176,7 @@
 | Jack Wang                    | https://submirror.xyz/0xCb400e59f2aF1eC2f8c224f6b011983751ea2E7e | Web3                    |
 | 加密菩提                         | https://submirror.xyz/0xd83256a8BB182e7BE2382550Ed24861C71108d35 | Web3                    |
 | DeFieye                      | https://submirror.xyz/0x112E372bb5EC17c1ea6b1d679EA72aFBD2A94404 | DeFi; Web3              |
+| Foresight News               | https://submirror.xyz/foresightnews.eth                          | DeFi; Web3              |
 
 ## 什么是 Mirror
 
