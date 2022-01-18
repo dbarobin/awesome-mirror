@@ -165,6 +165,10 @@
 | Sam Hysell                   | https://submirror.xyz/samhysell.eth                              | NFT                     |
 | Taipei Ethereum Meetup       | https://ethtaipei.submirror.xyz/                                 | Web3; 以太坊; DeFi         |
 | metabody                     | https://submirror.xyz/0x69d24494328051C3F3ee0480D593E6722Eaf5869 | Web3                    |
+| Snapshot Labs                | https://submirror.xyz/shot.eth                                   | DeFi                    |
+| Alexandra Sukin              | https://submirror.xyz/alexandrasukin.eth                         | Web3                    |
+| Josh Stark                   | https://stark.submirror.xyz/                                     | 以太坊                     |
+| 0x9f9f                       | https://mirror.xyz/0x9f9f98e28456EEEFC4Af1c990a170e2B0D2d6027    | Web3                    |
 
 ## 什么是 Mirror
 
