@@ -186,6 +186,7 @@
 | LazzarEnne                   | https://submirror.xyz/0x0161d1Cc10116bb2a073A0c293d5E4F1a97A00b6 | NFT                     |
 | CryptoStats                  | https://submirror.xyz/cryptostats.eth                            | 数据                      |
 | Brett                        | https://submirror.xyz/0xe8cbCf4AB8aEf17742eF204c557b3050E8f992C3 | DAO                     |
+| 深潮 TechFlow                  | https://submirror.xyz/0x0E58bB9795a9D0F065e3a8Cc2aed2A63D6977d8A | 媒体; 投研                  |
 
 ## 什么是 Mirror
 
