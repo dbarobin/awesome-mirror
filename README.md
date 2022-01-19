@@ -177,6 +177,15 @@
 | 加密菩提                         | https://submirror.xyz/0xd83256a8BB182e7BE2382550Ed24861C71108d35 | Web3                    |
 | DeFieye                      | https://submirror.xyz/0x112E372bb5EC17c1ea6b1d679EA72aFBD2A94404 | DeFi; Web3              |
 | Foresight News               | https://submirror.xyz/foresightnews.eth                          | DeFi; Web3              |
+| NEON DAO                     | https://submirror.xyz/0x4AC39B087D0907DB171E1Cf52fD4120952389FC5 | DAO                     |
+| ThreeThousandThirty          | https://submirror.xyz/0x5560522b72C4Ab7F71f15adDa474B0e6cCB194eD | Web3                    |
+| jakepimental.eth             | https://submirror.xyz/jakepimental.eth                           | DeFi                    |
+| Arbestor Dinggleback         | https://submirror.xyz/arbestor.eth                               | NFT                     |
+| dd0sxx                       | https://submirror.xyz/dd0sxx.eth                                 | DeFi; NFT               |
+| mattdesl                     | https://submirror.xyz/mattdesl.eth                               | NFT                     |
+| LazzarEnne                   | https://submirror.xyz/0x0161d1Cc10116bb2a073A0c293d5E4F1a97A00b6 | NFT                     |
+| CryptoStats                  | https://submirror.xyz/cryptostats.eth                            | 数据                      |
+| Brett                        | https://submirror.xyz/0xe8cbCf4AB8aEf17742eF204c557b3050E8f992C3 | DAO                     |
 
 ## 什么是 Mirror
 
