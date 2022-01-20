@@ -194,6 +194,13 @@
 | gem.xyz                      | https://submirror.xyz/0x4247c65610972d04Ca221bcc64Ff35F50c26E0F6 | Metaverse               |
 | _0xken                       | https://submirror.xyz/0xF36f242CE662b9fe44A203924B6b965e1d5a1B48 | NFT                     |
 | Rabia Fatima                 | https://submirror.xyz/0xD09934912F8D22803465c733C0fDcA00FD384c62 | 以太坊                     |
+| Jonas1997                    | https://submirror.xyz/0x31Ae182A31Bb2c3cfd9e2E3732cc53f7606FB773 | NFT; DeFi               |
+| Keegan小钢                     | https://submirror.xyz/0x546086AfA3D285aCD2c84783c2dCf8F2C23b6433 | DeFi                    |
+| Station Newstand             | https://station.submirror.xyz/                                   | Web3                    |
+| joaxap                       | https://submirror.xyz/joaxap.eth                                 | DAO                     |
+| Tribute Labs                 | https://submirror.xyz/0xF44E60285F1ee1df008f39AB9201864444188197 | DAO                     |
+| Jhamar                       | https://submirror.xyz/0xFC965f2075077Ee54B59aFb3B16780C1Cba0d22F | Web3                    |
+| KYMXÅ                        | https://submirror.xyz/kymxa.eth                                  | Web3                    |
 
 ## 什么是 Mirror
 
