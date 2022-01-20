@@ -187,6 +187,13 @@
 | CryptoStats                  | https://submirror.xyz/cryptostats.eth                            | 数据                      |
 | Brett                        | https://submirror.xyz/0xe8cbCf4AB8aEf17742eF204c557b3050E8f992C3 | DAO                     |
 | 深潮 TechFlow                  | https://submirror.xyz/0x0E58bB9795a9D0F065e3a8Cc2aed2A63D6977d8A | 媒体; 投研                  |
+| WarpSound                    | https://submirror.xyz/warpsound.eth                              | Web3                    |
+| Upshot                       | https://submirror.xyz/0x82FE4757D134a56BFC7968A0f0d1635345053104 | NFT                     |
+| Dylan Olivia Hunzeker        | https://submirror.xyz/0x38050A922eEFc7138E2D39082019908EA1D04a7A | Web3                    |
+| DOOMSDAYX                    | https://submirror.xyz/doomsdayx.eth                              | Web3; NFT               |
+| gem.xyz                      | https://submirror.xyz/0x4247c65610972d04Ca221bcc64Ff35F50c26E0F6 | Metaverse               |
+| _0xken                       | https://submirror.xyz/0xF36f242CE662b9fe44A203924B6b965e1d5a1B48 | NFT                     |
+| Rabia Fatima                 | https://submirror.xyz/0xD09934912F8D22803465c733C0fDcA00FD384c62 | 以太坊                     |
 
 ## 什么是 Mirror
 
