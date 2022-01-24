@@ -211,6 +211,7 @@
 | MissBerri.ETH                | https://submirror.xyz/missberri.eth                              | DAO                     |
 | DMNSN                        | https://submirror.xyz/dmnsn.eth                                  | NFT                     |
 | UneMeta                      | https://submirror.xyz/unemeta.eth                                | NFT                     |
+| duloti-peopledao             | https://submirror.xyz/duloti-peopledao.eth                       | DAO                     |
 
 ## 什么是 Mirror
 
