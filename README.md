@@ -212,6 +212,13 @@
 | DMNSN                        | https://submirror.xyz/dmnsn.eth                                  | NFT                     |
 | UneMeta                      | https://submirror.xyz/unemeta.eth                                | NFT                     |
 | duloti-peopledao             | https://submirror.xyz/duloti-peopledao.eth                       | DAO                     |
+| Kain.eth                     | https://submirror.xyz/kain.eth                                   | DeFi                    |
+| 0xProductGal                 | https://submirror.xyz/0xproductgal.eth                           | Web3                    |
+| Jean-Luc Shorey              | https://submirror.xyz/0xBC2Ae45Ee0dD58B1FDDf3ac6e98c8F2d3ff3591d | DeFi                    |
+| David Tomu                   | https://submirror.xyz/tomu.eth                                   | Web3                    |
+| 许明恩                          | https://submirror.xyz/mnhsu.eth                                  | Web3                    |
+| JT Song                      | https://submirror.xyz/jtsong.eth                                 | Web3; NFT               |
+| Ali Galan                    | https://submirror.xyz/0x0C34E42209d9372199e37Efd53B03ef1A4b3c5ff | NFT                     |
 
 ## 什么是 Mirror
 
