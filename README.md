@@ -207,6 +207,7 @@
 | DeepDAO                      | https://submirror.xyz/deepdao.eth                                | DAO                     |
 | SerenaYu                     | https://submirror.xyz/serenayu.eth                               | Web3; DeFi; NFT         |
 | MosesSamPaul                 | https://submirror.xyz/0xed95C841068a9feF0CE2D7F527829A231626447D | Web3                    |
+| BanklessDAO                  | https://banklessdao.submirror.xyz/                               | DAO                     |
 | VAULT: Creators Unlocked     | https://submirror.xyz/0xe5DCbB3B8B6c7f837761b36316c5DCbb3a93b3f8 | Web3                    |
 | MissBerri.ETH                | https://submirror.xyz/missberri.eth                              | DAO                     |
 | DMNSN                        | https://submirror.xyz/dmnsn.eth                                  | NFT                     |
