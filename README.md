@@ -220,6 +220,13 @@
 | 许明恩                          | https://submirror.xyz/mnhsu.eth                                  | Web3                    |
 | JT Song                      | https://submirror.xyz/jtsong.eth                                 | Web3; NFT               |
 | Ali Galan                    | https://submirror.xyz/0x0C34E42209d9372199e37Efd53B03ef1A4b3c5ff | NFT                     |
+| flyingpotato                 | https://submirror.xyz/0x3a9e9dcC7be5a0152B15CA34923CadEF1865DBA5 | Web3                    |
+| Beeradley                    | https://submirror.xyz/beeradley.eth                              | DAO                     |
+| Jason Zhou                   | https://submirror.xyz/jasonz.eth                                 | Web3                    |
+| saltwater                    | https://submirror.xyz/0xB9D7211EdBf7ADb18C4a6e8C587E5660CD476B8F | Web3                    |
+| Reservoir Protocol           | https://reservoir.submirror.xyz/                                 | Web3                    |
+| More Than a Gamer            | https://submirror.xyz/0xb72759927CB072d4db4386Ef53D657F09a79FC92 | NFT                     |
+| cosmohm.eth                  | https://submirror.xyz/cosmohm.eth                                | DAO                     |
 
 ## 什么是 Mirror
 
