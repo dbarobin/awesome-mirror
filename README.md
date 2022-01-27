@@ -228,6 +228,8 @@
 | More Than a Gamer            | https://submirror.xyz/0xb72759927CB072d4db4386Ef53D657F09a79FC92 | NFT                     |
 | cosmohm.eth                  | https://submirror.xyz/cosmohm.eth                                | DAO                     |
 | Meagan Loyst                 | https://submirror.xyz/themeaganloyst.eth                         | NFT                     |
+| Coinvise                     | https://coinvise.submirror.xyz/                                  | DeFi                    |
+| Justine Moore                | https://submirror.xyz/justinemoore.eth                           | Web3                    |
 
 ## 什么是 Mirror
 
