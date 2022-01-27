@@ -227,6 +227,7 @@
 | Reservoir Protocol           | https://reservoir.submirror.xyz/                                 | Web3                    |
 | More Than a Gamer            | https://submirror.xyz/0xb72759927CB072d4db4386Ef53D657F09a79FC92 | NFT                     |
 | cosmohm.eth                  | https://submirror.xyz/cosmohm.eth                                | DAO                     |
+| Meagan Loyst                 | https://submirror.xyz/themeaganloyst.eth                         | NFT                     |
 
 ## 什么是 Mirror
 
