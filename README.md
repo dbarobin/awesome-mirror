@@ -237,6 +237,7 @@
 | Culture Clap                 | https://submirror.xyz/canin.eth                                  | DAO                     |
 | Olympus Agora                | https://submirror.xyz/0x4CeBBD9E1e399dA2cFe62834133B6B759087a994 | NFT                     |
 | Loedn                        | https://submirror.xyz/loedn.eth                                  | DeFi                    |
+| Syndicate                    | https://syndicate.submirror.xyz/                                 | Web3                    |
 
 ## 什么是 Mirror
 
