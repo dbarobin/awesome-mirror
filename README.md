@@ -230,6 +230,13 @@
 | Meagan Loyst                 | https://submirror.xyz/themeaganloyst.eth                         | NFT                     |
 | Coinvise                     | https://coinvise.submirror.xyz/                                  | DeFi                    |
 | Justine Moore                | https://submirror.xyz/justinemoore.eth                           | Web3                    |
+| Standard Crypto              | https://submirror.xyz/blog.standard-crypto.eth                   | NFT                     |
+| Cabin                        | https://creators.submirror.xyz/                                  | DAO                     |
+| Zora Engineering             | https://zora.submirror.xyz/                                      | Web3                    |
+| Emperor                      | https://submirror.xyz/0xemperor.eth                              | DeFi; DAO               |
+| Culture Clap                 | https://submirror.xyz/canin.eth                                  | DAO                     |
+| Olympus Agora                | https://submirror.xyz/0x4CeBBD9E1e399dA2cFe62834133B6B759087a994 | NFT                     |
+| Loedn                        | https://submirror.xyz/loedn.eth                                  | DeFi                    |
 
 ## 什么是 Mirror
 
