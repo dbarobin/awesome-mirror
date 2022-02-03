@@ -72,7 +72,7 @@
 | ShillBoard.xyz               | https://submirror.xyz/diloco.eth                                 | DeFi                    |
 | Friends With Benefits        | https://fwb.submirror.xyz/                                       | DeFi; SocialFi          |
 | DropList                     | https://submirror.xyz/droplist.eth                               | DeFi                    |
-| Haole                        | https://submirror.xyz/haole.eth                                  | Web3                    |
+| Haole                        | https://haole.submirror.xyz/                                     | Web3                    |
 | jackofcrypto                 | https://submirror.xyz/jackofcrypto.eth                           | Ethereum; Solidity      |
 | rbarniker                    | https://submirror.xyz/barniker.eth                               | NFT                     |
 | LongHash Ventures            | https://submirror.xyz/0x51999aC353335d7eF96BfF16570B7Af8F9A66474 | Web3; 投研                |
@@ -239,6 +239,15 @@
 | Loedn                        | https://submirror.xyz/loedn.eth                                  | DeFi                    |
 | Syndicate                    | https://syndicate.submirror.xyz/                                 | Web3                    |
 | Kay                          | https://submirror.xyz/kayf.eth                                   | Web3                    |
+| Fraser Bell / The NFT Diary  | https://submirror.xyz/fraserbell.eth                             | NFT                     |
+| Bradley Tusk                 | https://submirror.xyz/0x81dB200eD62Ce664B911C211b55F836a208Df868 | Web3                    |
+| Alejandro Cano               | https://submirror.xyz/alejandrocano.eth                          | Web3                    |
+| Alex Zhong                   | https://submirror.xyz/0xD08624Cdbd8646a74C24565deb103001215d0Bf6 | NFT                     |
+| Dhaiwat Pandya               | https://submirror.xyz/dhaiwat.eth                                | Web3                    |
+| 0xA926                       | https://submirror.xyz/0xA92613A5e8D2373c2733Ce1E61041485483A90F2 | GameFi                  |
+| Sushi                        | https://submirror.xyz/susheen.eth                                | Web3                    |
+| RhizomeDAO                   | https://submirror.xyz/rhizomedao.eth                             | DAO                     |
+| Mary Maguire                 | https://submirror.xyz/marymaguire.eth                            | GameFi                  |
 
 ## 什么是 Mirror
 
