@@ -248,6 +248,11 @@
 | Sushi                        | https://submirror.xyz/susheen.eth                                | Web3                    |
 | RhizomeDAO                   | https://submirror.xyz/rhizomedao.eth                             | DAO                     |
 | Mary Maguire                 | https://submirror.xyz/marymaguire.eth                            | GameFi                  |
+| nivaaz                       | https://submirror.xyz/0x14BD0Cf32aF377E65584058b5Ee24FA9007da480 | NFT                     |
+| Christian                    | https://submirror.xyz/cmurray.eth                                | NFT                     |
+| FlipFam                      | https://submirror.xyz/0xA8c69E5a3D8a5F743772C65ba7624058e43C7a6E | NFT                     |
+| MUSIC x                      | https://musicx.submirror.xyz/                                    | NFT                     |
+| Dyo Hu                       | https://submirror.xyz/dyohu.eth                                  | NFT                     |
 
 ## 什么是 Mirror
 
