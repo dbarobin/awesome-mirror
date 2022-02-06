@@ -253,6 +253,17 @@
 | FlipFam                      | https://submirror.xyz/0xA8c69E5a3D8a5F743772C65ba7624058e43C7a6E | NFT                     |
 | MUSIC x                      | https://musicx.submirror.xyz/                                    | NFT                     |
 | Dyo Hu                       | https://submirror.xyz/dyohu.eth                                  | NFT                     |
+| HashHub Research             | https://submirror.xyz/0x8Df126302a7EA75E7013Ec8Ad6bFaC14DD84a5fF | Web3                    |
+| Pranav M Jagtap MD           | https://submirror.xyz/bhau.eth                                   | DAO                     |
+| Mirror Development           | https://dev.submirror.xyz/                                       | Web3                    |
+| Forefront                    | https://forefront.submirror.xyz/                                 | Web3                    |
+| 0xben                        | https://submirror.xyz/0xdbFA537F17118880C708A23518Aa14049ac5FA35 | Web3                    |
+| Joshua Eustis                | https://submirror.xyz/telefontelaviv.eth                         | ETH                     |
+| XEDRA                        | https://submirror.xyz/xedra.eth                                  | NFT                     |
+| pseudotheos                  | https://pseudotheos.submirror.xyz/                               | ETH                     |
+| Daniel Schlabach             | https://submirror.xyz/schlabach.eth                              | DeFi                    |
+| MisterPlus                   | https://submirror.xyz/misterplus.eth                             | NFT                     |
+| tian7                        | https://submirror.xyz/tian7.eth                                  | Web3                    |
 
 ## 什么是 Mirror
 
