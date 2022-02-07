@@ -264,6 +264,9 @@
 | Daniel Schlabach             | https://submirror.xyz/schlabach.eth                              | DeFi                    |
 | MisterPlus                   | https://submirror.xyz/misterplus.eth                             | NFT                     |
 | tian7                        | https://submirror.xyz/tian7.eth                                  | Web3                    |
+| joe.eth                      | https://submirror.xyz/0x97bB393E972fC8480e9fb46352e767C426F30902 | SocialFi                |
+| 比特大猪                         | https://submirror.xyz/0xf433344118e4A9f6870330cfA7e8d42BF7FB74af | Web3                    |
+| RayYayZzz                    | https://submirror.xyz/rayzzz.eth                                 | NFT                     |
 
 ## 什么是 Mirror
 
