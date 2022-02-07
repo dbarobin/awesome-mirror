@@ -267,6 +267,7 @@
 | joe.eth                      | https://submirror.xyz/0x97bB393E972fC8480e9fb46352e767C426F30902 | SocialFi                |
 | 比特大猪                         | https://submirror.xyz/0xf433344118e4A9f6870330cfA7e8d42BF7FB74af | Web3                    |
 | RayYayZzz                    | https://submirror.xyz/rayzzz.eth                                 | NFT                     |
+| Manta Network                | https://submirror.xyz/0xeB125d270FC135DDD3CC8E1C466873a4f37682d5 | Polkadot                |
 
 ## 什么是 Mirror
 
