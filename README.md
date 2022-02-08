@@ -268,6 +268,24 @@
 | 比特大猪                         | https://submirror.xyz/0xf433344118e4A9f6870330cfA7e8d42BF7FB74af | Web3                    |
 | RayYayZzz                    | https://submirror.xyz/rayzzz.eth                                 | NFT                     |
 | Manta Network                | https://submirror.xyz/0xeB125d270FC135DDD3CC8E1C466873a4f37682d5 | Polkadot                |
+| Curare by JO7                | https://jo7.submirror.xyz/                                       | Web3                    |
+| Into the Metaverse           | https://meta.submirror.xyz/                                      | Web3                    |
+| brunny.eth                   | https://submirror.xyz/brunny.eth                                 | Ethereum                |
+| Seed Club                    | https://club.submirror.xyz/                                      | DAO                     |
+| Hari Velaayutham             | https://submirror.xyz/harivel.eth                                | Web3                    |
+| Lens Protocol                | https://submirror.xyz/lensprotocol.eth                           | Web3                    |
+| Pedoispe                     | https://submirror.xyz/pedoispe.eth                               | DAO; NFT                |
+| Pangea                       | https://submirror.xyz/pangeadao.eth                              | Web3; DAO               |
+| Dillon                       | https://submirror.xyz/dill.eth                                   | Web3                    |
+| sladuca.eth                  | https://submirror.xyz/0x6A8046BD2f3AD3EF9e1eA60FADdb668fd3837375 | Web3                    |
+| YoursDAO                     | https://submirror.xyz/yoursdao.eth                               | DAO                     |
+| Ladislaus                    | https://submirror.xyz/ladislaus.eth                              | Ethereum                |
+| The Lean Block               | https://submirror.xyz/supreet.eth                                | NFT                     |
+| MetaverseTRML                | https://submirror.xyz/0xC6ebC754Cbbc4AebC0596f516DB4A98e8e8A247A | GameFi                  |
+| AsherFishman.eth             | https://submirror.xyz/0x374E763fBE0FC4e404db4531f7Ee54044019a8A1 | Web3                    |
+| Philip R Powis (The Wizard)  | https://submirror.xyz/philippowis.eth                            | Web3                    |
+| Jackson Oar                  | https://submirror.xyz/0x22034f804960B9B34353d6A7595cC4E83ac0daBe | 跨链                      |
+| IOSG Ventures_CN             | https://submirror.xyz/0x5Eba828AB4999825D8416D7EAd9563b64FD90276 | 投研                      |
 
 ## 什么是 Mirror
 
