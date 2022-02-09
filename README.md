@@ -286,6 +286,7 @@
 | Philip R Powis (The Wizard)  | https://submirror.xyz/philippowis.eth                            | Web3                    |
 | Jackson Oar                  | https://submirror.xyz/0x22034f804960B9B34353d6A7595cC4E83ac0daBe | 跨链                      |
 | IOSG Ventures_CN             | https://submirror.xyz/0x5Eba828AB4999825D8416D7EAd9563b64FD90276 | 投研                      |
+| Rally                        | https://submirror.xyz/rallyio.eth                                | NFT                     |
 
 ## 什么是 Mirror
 
