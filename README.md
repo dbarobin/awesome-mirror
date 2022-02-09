@@ -287,6 +287,13 @@
 | Jackson Oar                  | https://submirror.xyz/0x22034f804960B9B34353d6A7595cC4E83ac0daBe | 跨链                      |
 | IOSG Ventures_CN             | https://submirror.xyz/0x5Eba828AB4999825D8416D7EAd9563b64FD90276 | 投研                      |
 | Rally                        | https://submirror.xyz/rallyio.eth                                | NFT                     |
+| 0xCb4B                       | https://submirror.xyz/0xCb4B8F4810188fCBe96C06ccf8A763eb49f56a29 | Ethereum                |
+| Scott David Meyer            | https://ed3.submirror.xyz/                                       | DAO                     |
+| Paymahn                      | https://submirror.xyz/paymahn.eth                                | DAO                     |
+| jmcook.eth                   | https://submirror.xyz/jmcook.eth                                 | Ethereum                |
+| juliancanderson              | https://submirror.xyz/juliancanderson.eth                        | NFT                     |
+| Andrew Hong                  | https://ath.submirror.xyz/                                       | Web3                    |
+| Ryan Solomon (Sully)         | https://submirror.xyz/0xd61bbb4c245Bd483301352127B96C0CC3b9471aB | DAO                     |
 
 ## 什么是 Mirror
 
