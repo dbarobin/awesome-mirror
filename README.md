@@ -296,6 +296,8 @@
 | Ryan Solomon (Sully)         | https://submirror.xyz/0xd61bbb4c245Bd483301352127B96C0CC3b9471aB | DAO                     |
 | LeoSagan                     | https://submirror.xyz/leosagan.eth                               | DeFi                    |
 | Blockchangehk                | https://submirror.xyz/0x26943fe785270a31D2D3c8E6E4539213B7980817 | Web3                    |
+| 比特引力                         | https://submirror.xyz/0x4bE3Aa7AC1508980ef4b2b584b93ca6FB2d70bd1 | DAO; DeFi; Web3         |
+| kuangren                     | https://submirror.xyz/0xAc75b504Dc498D6f5E59127395b5C2e6f991A5a9 | Web3                    |
 
 ## 什么是 Mirror
 
