@@ -294,6 +294,7 @@
 | juliancanderson              | https://submirror.xyz/juliancanderson.eth                        | NFT                     |
 | Andrew Hong                  | https://ath.submirror.xyz/                                       | Web3                    |
 | Ryan Solomon (Sully)         | https://submirror.xyz/0xd61bbb4c245Bd483301352127B96C0CC3b9471aB | DAO                     |
+| LeoSagan                     | https://submirror.xyz/leosagan.eth                               | DeFi                    |
 
 ## 什么是 Mirror
 
