@@ -295,6 +295,7 @@
 | Andrew Hong                  | https://ath.submirror.xyz/                                       | Web3                    |
 | Ryan Solomon (Sully)         | https://submirror.xyz/0xd61bbb4c245Bd483301352127B96C0CC3b9471aB | DAO                     |
 | LeoSagan                     | https://submirror.xyz/leosagan.eth                               | DeFi                    |
+| Blockchangehk                | https://submirror.xyz/0x26943fe785270a31D2D3c8E6E4539213B7980817 | Web3                    |
 
 ## 什么是 Mirror
 
