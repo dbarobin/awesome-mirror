@@ -308,6 +308,7 @@
 | KaliCo                       | https://submirror.xyz/kalico.eth                                 | DAO                     |
 | OwwwO                        | https://submirror.xyz/owwwo.eth                                  | DAO                     |
 | PrimeDAO                     | https://submirror.xyz/primed2d.eth                               | DeFi                    |
+| 0xNoMad                      | https://submirror.xyz/nomadlab.eth                               | GameFi                  |
 
 ## 什么是 Mirror
 
