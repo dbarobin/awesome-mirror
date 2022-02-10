@@ -306,6 +306,8 @@
 | GALLERY                      | https://gallery.submirror.xyz/                                   | DeFi                    |
 | Alex Otsu                    | https://submirror.xyz/0x3eb6728795CDC298742880F6fFF4D63e627601e8 | Ethereum                |
 | KaliCo                       | https://submirror.xyz/kalico.eth                                 | DAO                     |
+| OwwwO                        | https://submirror.xyz/owwwo.eth                                  | DAO                     |
+| PrimeDAO                     | https://submirror.xyz/primed2d.eth                               | DeFi                    |
 
 ## 什么是 Mirror
 
