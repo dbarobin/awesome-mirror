@@ -298,6 +298,14 @@
 | Blockchangehk                | https://submirror.xyz/0x26943fe785270a31D2D3c8E6E4539213B7980817 | Web3                    |
 | 比特引力                         | https://submirror.xyz/0x4bE3Aa7AC1508980ef4b2b584b93ca6FB2d70bd1 | DAO; DeFi; Web3         |
 | kuangren                     | https://submirror.xyz/0xAc75b504Dc498D6f5E59127395b5C2e6f991A5a9 | Web3                    |
+| 0xLin                        | https://submirror.xyz/0xlin.eth                                  | Web3                    |
+| Dot                          | https://submirror.xyz/dotmusic.eth                               | NFT                     |
+| Aean                         | https://submirror.xyz/aean.eth                                   | Web3                    |
+| Brock                        | https://submirror.xyz/brocke.eth                                 | DeFi                    |
+| 0nboard                      | https://submirror.xyz/yean.eth                                   | Web3                    |
+| GALLERY                      | https://gallery.submirror.xyz/                                   | DeFi                    |
+| Alex Otsu                    | https://submirror.xyz/0x3eb6728795CDC298742880F6fFF4D63e627601e8 | Ethereum                |
+| KaliCo                       | https://submirror.xyz/kalico.eth                                 | DAO                     |
 
 ## 什么是 Mirror
 
