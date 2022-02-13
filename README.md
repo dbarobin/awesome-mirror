@@ -309,6 +309,22 @@
 | OwwwO                        | https://submirror.xyz/owwwo.eth                                  | DAO                     |
 | PrimeDAO                     | https://submirror.xyz/primed2d.eth                               | DeFi                    |
 | 0xNoMad                      | https://submirror.xyz/nomadlab.eth                               | GameFi                  |
+| Peter L                      | https://submirror.xyz/peterleeb.eth                              | Web3                    |
+| DAppChaser                   | https://submirror.xyz/dappchaser.eth                             | NFT                     |
+| durneja.eth                  | https://submirror.xyz/durneja.eth                                | DAO                     |
+| Y4000                        | https://submirror.xyz/y4000.eth                                  | Ethereum; DAO           |
+| Clemlaflemme                 | https://submirror.xyz/clemlaflemme.eth                           | Ethereum                |
+| Crypto Coven                 | https://cryptocoven.submirror.xyz/                               | Web3                    |
+| 导演                           | https://submirror.xyz/0x76276193e5e0c1aB752470A21BD9a93aCca23243 | Web3                    |
+| haowi.eth                    | https://submirror.xyz/haowi.eth                                  | DeFi                    |
+| seba                         | https://submirror.xyz/0x5152e31dfF3C7C7fa1f7D90cef6C9EafD56bE7E7 | Web3                    |
+| Rahat Chowdhury              | https://submirror.xyz/rahat.eth                                  | Web3                    |
+| doug                         | https://submirror.xyz/pfeffunit.eth                              | NFT                     |
+| mizu                         | https://submirror.xyz/mizu.eth                                   | NFT                     |
+| Web3.0 Dev Camp              | https://submirror.xyz/0x73c7448760517E3E6e416b2c130E3c6dB2026A1d | NFT                     |
+| Nikkor@perp.fi               | https://submirror.xyz/nikkor.eth                                 | Web3                    |
+| ViviDaBest                   | https://submirror.xyz/0x2f3b5b6d852Fb097Df4d1197287858D35b3C1647 | NFT                     |
+| jambestwick                  | https://submirror.xyz/vatalikbuterin.eth                         | Web3                    |
 
 ## 什么是 Mirror
 
