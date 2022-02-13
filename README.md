@@ -325,6 +325,9 @@
 | Nikkor@perp.fi               | https://submirror.xyz/nikkor.eth                                 | Web3                    |
 | ViviDaBest                   | https://submirror.xyz/0x2f3b5b6d852Fb097Df4d1197287858D35b3C1647 | NFT                     |
 | jambestwick                  | https://submirror.xyz/vatalikbuterin.eth                         | Web3                    |
+| zlexdl.eth                   | https://submirror.xyz/zlexdl.eth                                 | Web3                    |
+| 0Xdog                        | https://submirror.xyz/0x26DA4f747dD974f873Be9422918FAf1c3C0049D6 | Web3                    |
+| 加戈                           | https://submirror.xyz/0xE44081Ee2D0D4cbaCd10b44e769A14Def065eD4D | Web3                    |
 
 ## 什么是 Mirror
 
