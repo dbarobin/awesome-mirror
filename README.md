@@ -334,6 +334,11 @@
 | Evan Powell                  | https://submirror.xyz/epowell101.eth                             | DAO                     |
 | 0xC18E                       | https://submirror.xyz/0xC18E4eCCE39239aBC3C9610277Ed6b51Dd3cF258 | DAO                     |
 | Leonard                      | https://submirror.xyz/0xF6c53cEa18Bd1F5e93425eB7D5Ce009225fA2A46 | NFT                     |
+| Cyberviking                  | https://submirror.xyz/0xf0f3466f8Cbc2A6154703AA669E73844ac4D5446 | Web3                    |
+| Andrew DeBell                | https://submirror.xyz/debell.eth                                 | NFT                     |
+| qiwihui                      | https://submirror.xyz/qiwihui.eth                                | NFT                     |
+| maik2hello                   | https://submirror.xyz/0x65684B9D2B06469E88acfc1B88c65912F7BB795B | NFT                     |
+| zoroo.eth                    | https://submirror.xyz/zoroo.eth                                  | Web3                    |
 
 ## 什么是 Mirror
 
