@@ -329,6 +329,11 @@
 | 0Xdog                        | https://submirror.xyz/0x26DA4f747dD974f873Be9422918FAf1c3C0049D6 | Web3                    |
 | 加戈                           | https://submirror.xyz/0xE44081Ee2D0D4cbaCd10b44e769A14Def065eD4D | Web3                    |
 | sartoshi                     | https://submirror.xyz/sartoshi.eth                               | Web3                    |
+| Jacob Wei                    | https://submirror.xyz/jacobwei.eth                               | NFT                     |
+| web3sean.eth                 | https://submirror.xyz/therealsean.eth                            | NFT                     |
+| Evan Powell                  | https://submirror.xyz/epowell101.eth                             | DAO                     |
+| 0xC18E                       | https://submirror.xyz/0xC18E4eCCE39239aBC3C9610277Ed6b51Dd3cF258 | DAO                     |
+| Leonard                      | https://submirror.xyz/0xF6c53cEa18Bd1F5e93425eB7D5Ce009225fA2A46 | NFT                     |
 
 ## 什么是 Mirror
 
