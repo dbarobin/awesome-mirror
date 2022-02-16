@@ -344,6 +344,7 @@
 | curiousjoe.eth               | https://submirror.xyz/curiousjoe.eth                             | Web3; DAO               |
 | Research DAO                 | https://submirror.xyz/0xed111Cf8C23AEafe12286Fd60EE670007457Bf87 | DAO                     |
 | Jasmine Xu                   | https://submirror.xyz/jasminexu.eth                              | DeFi                    |
+| 帅小伙杰克                        | https://submirror.xyz/0x9ebcdd8954F48B725D56905afd3140f42b93E6eF | NFT                     |
 
 ## 什么是 Mirror
 
