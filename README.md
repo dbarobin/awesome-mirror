@@ -339,6 +339,11 @@
 | qiwihui                      | https://submirror.xyz/qiwihui.eth                                | NFT                     |
 | maik2hello                   | https://submirror.xyz/0x65684B9D2B06469E88acfc1B88c65912F7BB795B | NFT                     |
 | zoroo.eth                    | https://submirror.xyz/zoroo.eth                                  | Web3                    |
+| 0xSplits                     | https://submirror.xyz/0x50671995E1ECa15Ca9E807774A814331CabE0F3b | Web3                    |
+| Naveen                       | https://submirror.xyz/0xB38709B8198d147cc9Ff9C133838a044d78B064B | Web3                    |
+| curiousjoe.eth               | https://submirror.xyz/curiousjoe.eth                             | Web3; DAO               |
+| Research DAO                 | https://submirror.xyz/0xed111Cf8C23AEafe12286Fd60EE670007457Bf87 | DAO                     |
+| Jasmine Xu                   | https://submirror.xyz/jasminexu.eth                              | DeFi                    |
 
 ## 什么是 Mirror
 
