@@ -348,6 +348,9 @@
 | jrocki.eth                   | https://submirror.xyz/jrocki.eth                                 | NFT                     |
 | rohanda.eth                  | https://submirror.xyz/rohanda.eth                                | NFT                     |
 | HOLE                         | https://submirror.xyz/holedao.eth                                | NFT                     |
+| Data Always                  | https://submirror.xyz/dataalways.eth                             | Ethereum                |
+| Locke Protocol               | https://submirror.xyz/0x61aff5A1899DD290568D53A0727dC4d0a27D2Ea0 | Web3                    |
+| CNMA                         | https://c.submirror.xyz/                                         | Web3                    |
 
 ## 什么是 Mirror
 
