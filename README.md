@@ -351,6 +351,7 @@
 | Data Always                  | https://submirror.xyz/dataalways.eth                             | Ethereum                |
 | Locke Protocol               | https://submirror.xyz/0x61aff5A1899DD290568D53A0727dC4d0a27D2Ea0 | Web3                    |
 | CNMA                         | https://c.submirror.xyz/                                         | Web3                    |
+| Crypto Alpha                 | https://submirror.xyz/duynguyen96.eth                            | Web3                    |
 
 ## 什么是 Mirror
 
