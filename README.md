@@ -365,6 +365,10 @@
 | Crypto Commons DAO                     | https://submirror.xyz/cryptocommons.eth                          | DAO                     |
 | The Blockchain Socialist but on Mirror | https://theblockchainsocialist.submirror.xyz/                    | DAO                     |
 | chengmo.bit                            | https://submirror.xyz/0x283Ef753f5ec092FAd51E27b0958C10f34dA571F | NFT                     |
+| Footprint Analytics                    | https://submirror.xyz/0x0A9ee078998e6ECe11e1FF75fCbc7BeD5be005bB | Web3                    |
+| MarrowDAO                              | https://buidl.submirror.xyz/                                     | DAO                     |
+| Chapter One                            | https://jmj.submirror.xyz/                                       | Web3                    |
+| Parcel                                 | https://submirror.xyz/0xe6C65b3cde9f4F2D7d8255aEf2D53D80100a9087 | Web3                    |
 
 ## 什么是 Mirror
 
