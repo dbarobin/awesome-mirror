@@ -22,4 +22,4 @@ else
     echo "Nothing."
 fi
 
-bash git_push.sh "Add $LINK"
+bash git_push.sh "Add $NAME"
