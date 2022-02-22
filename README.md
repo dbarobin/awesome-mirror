@@ -370,6 +370,7 @@
 | Chapter One                            | https://jmj.submirror.xyz/                                       | Web3                    |
 | Parcel                                 | https://submirror.xyz/0xe6C65b3cde9f4F2D7d8255aEf2D53D80100a9087 | Web3                    |
 | Xing                                   | https://submirror.xyz/xing824.eth                                | NFT                     |
+| yewlne                                 | https://submirror.xyz/yewlne.eth                                 | NFT                     |
 
 ## 什么是 Mirror
 
