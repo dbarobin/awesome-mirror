@@ -372,6 +372,7 @@
 | Xing                                   | https://submirror.xyz/xing824.eth                                | NFT                     |
 | yewlne                                 | https://submirror.xyz/yewlne.eth                                 | NFT                     |
 | GWG_GameFi                             | https://submirror.xyz/0xCe6fde8581C110B429DfD6B5ECa2658284612cbc | GameFi                  |
+| cwweb3                                 | https://submirror.xyz/cwweb3.eth                                 | Web3                    |
 
 ## 什么是 Mirror
 
