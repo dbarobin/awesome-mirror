@@ -401,6 +401,7 @@
 | Rhian Lewis                            | https://submirror.xyz/rhian.eth                                  | Web3                    |
 | highvibe                               | https://submirror.xyz/highvibenetwork.eth                        | Web3                    |
 | sissi                                  | https://submirror.xyz/sissixin.eth                               | Web3                    |
+| Mahesh Murthy                          | https://submirror.xyz/0xf768f5F340e89698465Fc7C12F31cB485fFf98D2 | DAO                     |
 
 ## 什么是 Mirror
 
