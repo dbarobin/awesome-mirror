@@ -374,6 +374,32 @@
 | GWG_GameFi                             | https://submirror.xyz/0xCe6fde8581C110B429DfD6B5ECa2658284612cbc | GameFi                  |
 | cwweb3                                 | https://submirror.xyz/cwweb3.eth                                 | Web3                    |
 | Moc                                    | https://submirror.xyz/0x76c7417278a27117ABa9e08a7f080A0337129Be4 | Web3                    |
+| Wanda Oliver                           | https://submirror.xyz/wandaoliver.eth                            | NFT                     |
+| GTON Capital                           | https://submirror.xyz/0x8c8b81208C7B7F71CD3279A31F48F1A37bda5df0 | Web3                    |
+| Will Stough                            | https://submirror.xyz/stough.eth                                 | Ethereum                |
+| twodam.eth                             | https://submirror.xyz/twodam.eth                                 | Web3                    |
+| huohuo                                 | https://submirror.xyz/wildchina.eth                              | Web3; NFT               |
+| THE FRINGE                             | https://submirror.xyz/thefringe.eth                              | Web3                    |
+| Chris Hamm                             | https://submirror.xyz/chamm.eth                                  | Ethereum                |
+| Boardroom                              | https://boardroom.submirror.xyz/                                 | DAO                     |
+| Julia Maltby                           | https://submirror.xyz/juliamaltby.eth                            | NFT                     |
+| mati.h                                 | https://submirror.xyz/0xB3f2b0001A4A82e6ed9Dab52224Da11788798cdd | Web3                    |
+| Samson Schirmer                        | https://submirror.xyz/0x40674647a2DeEdf0459633904Fd8150a5D720861 | Web3                    |
+| Eco's Echo                             | https://echo.submirror.xyz/                                      | DAO                     |
+| Mycelia                                | https://submirror.xyz/ibansadowski.eth                           | Web3                    |
+| Altin - The Working Guitarist          | https://submirror.xyz/0x973951bA15992C2944086BcF80421bEA39363f17 | Web3                    |
+| sakina                                 | https://submirror.xyz/0x4b58145d1F0D16985BA42B1066a60C26014e85bb | Web3                    |
+| Jiawei                                 | https://submirror.xyz/owoowo.eth                                 | NFT                     |
+| John Ellison                           | https://submirror.xyz/0xCaD3887923B39cD2b0B6d13538C4ecB7C5EE9825 | Web3                    |
+| Onecdot                                | https://submirror.xyz/0x8B86C9f583cDAd037c9a28285084De1b9e0BF3EA | GameFi                  |
+| JP                                     | https://submirror.xyz/jpangelle.eth                              | Ethereum                |
+| Erica                                  | https://submirror.xyz/ericakang.eth                              | Ethereum                |
+| Impossible Research                    | https://submirror.xyz/impossibleresearch.eth                     | GameFi                  |
+| Yup                                    | https://yup.submirror.xyz/                                       | Web3                    |
+| Brandon Ferdig                         | https://submirror.xyz/0x458162b7823560E5fb5DE3285Ad3242b0f813546 | Web3                    |
+| dagan.eth                              | https://submirror.xyz/dagan.eth                                  | Web3                    |
+| Rhian Lewis                            | https://submirror.xyz/rhian.eth                                  | Web3                    |
+| highvibe                               | https://submirror.xyz/highvibenetwork.eth                        | Web3                    |
 
 ## 什么是 Mirror
 
