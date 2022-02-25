@@ -400,6 +400,7 @@
 | dagan.eth                              | https://submirror.xyz/dagan.eth                                  | Web3                    |
 | Rhian Lewis                            | https://submirror.xyz/rhian.eth                                  | Web3                    |
 | highvibe                               | https://submirror.xyz/highvibenetwork.eth                        | Web3                    |
+| sissi                                  | https://submirror.xyz/sissixin.eth                               | Web3                    |
 
 ## 什么是 Mirror
 
