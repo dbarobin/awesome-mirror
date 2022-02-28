@@ -402,6 +402,19 @@
 | highvibe                               | https://submirror.xyz/highvibenetwork.eth                        | Web3                    |
 | sissi                                  | https://submirror.xyz/sissixin.eth                               | Web3                    |
 | Mahesh Murthy                          | https://submirror.xyz/0xf768f5F340e89698465Fc7C12F31cB485fFf98D2 | DAO                     |
+| Omar Mezenner                          | https://submirror.xyz/omarmezenner.eth                           | DAO                     |
+| PageDAO                                | https://submirror.xyz/pagedao.eth                                | DAO                     |
+| Maddie Goldberg                        | https://submirror.xyz/maddiegoldberg.eth                         | DAO                     |
+| Boba Epicure                           | https://submirror.xyz/bobaepicure.eth                            | NFT                     |
+| Didar Korkembay                        | https://submirror.xyz/0xCB143E3145c8EFB020D2D5dCFD094e3345260f09 | Web3                    |
+| Eduard                                 | https://submirror.xyz/0xe0F8f06e9a06C306C4064CD660D644348e32b97d | NFT                     |
+| Noncesense                             | https://submirror.xyz/rcpw.eth                                   | NFT                     |
+| yikiiiii.eth                           | https://submirror.xyz/0xAAe47a1231D7291EcE8701403789fA4e0285F857 | NFT                     |
+| Penny777.eth                           | https://submirror.xyz/penny777.eth                               | Web3                    |
+| github                                 | https://submirror.xyz/0x54c5Bd849c170f3Cbd5618D6f7B316B38f5729C4 | Web3                    |
+| OnboardDAO                             | https://onboard.submirror.xyz/                                   | DAO                     |
+| Spatio                                 | https://submirror.xyz/spatio.eth                                 | NFT                     |
+| Yesheng                                | https://submirror.xyz/yesheng.eth                                | NFT                     |
 
 ## 什么是 Mirror
 
