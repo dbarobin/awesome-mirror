@@ -415,6 +415,7 @@
 | OnboardDAO                             | https://onboard.submirror.xyz/                                   | DAO                     |
 | Spatio                                 | https://submirror.xyz/spatio.eth                                 | NFT                     |
 | Yesheng                                | https://submirror.xyz/yesheng.eth                                | NFT                     |
+| Cj_Blockchain                          | https://submirror.xyz/0xE8C078C600132AB68685eA06a5f7C7bC1A349b76 | DAO                     |
 
 ## 什么是 Mirror
 
