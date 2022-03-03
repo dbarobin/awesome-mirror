@@ -416,6 +416,16 @@
 | Spatio                                 | https://submirror.xyz/spatio.eth                                 | NFT                     |
 | Yesheng                                | https://submirror.xyz/yesheng.eth                                | NFT                     |
 | Cj_Blockchain                          | https://submirror.xyz/0xE8C078C600132AB68685eA06a5f7C7bC1A349b76 | DAO                     |
+| kishandao                              | https://submirror.xyz/kishans.eth                                | DAO                     |
+| Shrey Jain                             | https://submirror.xyz/shreyjain.eth                              | Ethereum                |
+| Mirror DAO                             | https://dao.submirror.xyz/                                       | Web3; DAO               |
+| Steph                                  | https://submirror.xyz/0xb6BC21B770Df019225f122E07dAc3E4984CfF95a | Web3                    |
+| JPG                                    | https://jpg.submirror.xyz/                                       | NFT                     |
+| iamsixsix_eth                          | https://submirror.xyz/0x78c1C7F703e9b2fe35AE4821AE8664BBf405bAC8 | NFT                     |
+| Jay Jiang                              | https://submirror.xyz/jayjiang.eth                               | DAO                     |
+| SeeDAO Product                         | https://submirror.xyz/product.seedao.eth                         | DAO                     |
+| charlie                                | https://submirror.xyz/durbin.eth                                 | Web3                    |
+| ryguy                                  | https://submirror.xyz/ryguy.eth                                  | DAO                     |
 
 ## 什么是 Mirror
 
