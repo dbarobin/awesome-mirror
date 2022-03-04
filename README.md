@@ -426,6 +426,14 @@
 | SeeDAO Product                         | https://submirror.xyz/product.seedao.eth                         | DAO                     |
 | charlie                                | https://submirror.xyz/durbin.eth                                 | Web3                    |
 | ryguy                                  | https://submirror.xyz/ryguy.eth                                  | DAO                     |
+| Mirror launch                          | https://launch.submirror.xyz/                                    | Web3                    |
+| Erguai                                 | https://submirror.xyz/0x40d96AF846202Ebfb6677601B5d1c19B5106feab | NFT                     |
+| Tasha Kim                              | https://submirror.xyz/natashajuliakim.eth                        | NFT                     |
+| lwsnbaker.eth                          | https://submirror.xyz/lwsnbaker.eth                              | Web3                    |
+| Hypha DAO and SEEDS Economy            | https://submirror.xyz/0x74DdeE27b3D96807131C72c0CA0eA3A20aFC1784 | Web3                    |
+| rΞgan.eth                              | https://regan.submirror.xyz/                                     | Web3                    |
+| Goke Adekunle                          | https://submirror.xyz/0x8806CD5e6a3977519B2EB97742CFf4082957AD8C | Web3                    |
+| 凉粉小刀                                   | https://submirror.xyz/liangfenxiaodao.eth                        | Web3                    |
 
 ## 什么是 Mirror
 
