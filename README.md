@@ -434,6 +434,14 @@
 | rΞgan.eth                              | https://regan.submirror.xyz/                                     | Web3                    |
 | Goke Adekunle                          | https://submirror.xyz/0x8806CD5e6a3977519B2EB97742CFf4082957AD8C | Web3                    |
 | 凉粉小刀                                   | https://submirror.xyz/liangfenxiaodao.eth                        | Web3                    |
+| NaiveDAO                               | https://submirror.xyz/0x4D95fDbd3Bd34f92B3508f61ee28fD006C782CF9 | Web3                    |
+| The Lapidary                           | https://diamond.submirror.xyz/                                   | Web3                    |
+| Society Journal                        | https://society.submirror.xyz/                                   | Ethereum                |
+| AlΞx Tsu                               | https://submirror.xyz/0xbAF657873a1df871471a74e155F0FEFA09873661 | Web3                    |
+| paulfinneyx                            | https://submirror.xyz/paulfinneyx.eth                            | Web3                    |
+| jasperthefriendlyghost.eth             | https://submirror.xyz/0x04BEE613690e98A1959F236c38AbAa5f2439B14a | Ethereum                |
+| Rulan Zheng                            | https://submirror.xyz/0xC0F0Ce81234776f7bf30e479fB0Ac518034818B6 | Web3                    |
+| denze                                  | https://submirror.xyz/denze.eth                                  | Web3                    |
 
 ## 什么是 Mirror
 
