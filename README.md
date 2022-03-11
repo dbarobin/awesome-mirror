@@ -442,6 +442,13 @@
 | jasperthefriendlyghost.eth             | https://submirror.xyz/0x04BEE613690e98A1959F236c38AbAa5f2439B14a | Ethereum                |
 | Rulan Zheng                            | https://submirror.xyz/0xC0F0Ce81234776f7bf30e479fB0Ac518034818B6 | Web3                    |
 | denze                                  | https://submirror.xyz/denze.eth                                  | Web3                    |
+| Chainlink 预言机                          | https://submirror.xyz/0x6521FF2BFf2FA292a9Afb04f1791Ba9FecBe1C3f | Web3                    |
+| PurposeUnknown                         | https://submirror.xyz/purposeunknown.eth                         | Web3                    |
+| Nick Confrey                           | https://submirror.xyz/0xCFB430b30747aae231655052d2c79eA76204291B | Web3                    |
+| Dopr                                   | https://submirror.xyz/0x0ac073bAB13cFacd44A5Dc7b063035E43A223014 | Web3                    |
+| Mitch Worsey                           | https://submirror.xyz/mitchworz.eth                              | Web3                    |
+| The Manther                            | https://submirror.xyz/manther.eth                                | Web3                    |
+| 0xVincent                              | https://u.submirror.xyz/                                         | DeFi; GameFi            |
 
 ## 什么是 Mirror
 
