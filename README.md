@@ -449,6 +449,8 @@
 | Mitch Worsey                           | https://submirror.xyz/mitchworz.eth                              | Web3                    |
 | The Manther                            | https://submirror.xyz/manther.eth                                | Web3                    |
 | 0xVincent                              | https://u.submirror.xyz/                                         | DeFi; GameFi            |
+| Radia                                  | https://submirror.xyz/radia.eth                                  | NFT                     |
+| TsaiKoga                               | https://submirror.xyz/0xff71512c84096F55cdF5C5f3D3c6AcE99b56feF0 | Web3                    |
 
 ## 什么是 Mirror
 
