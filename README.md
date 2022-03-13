@@ -451,6 +451,7 @@
 | 0xVincent                              | https://u.submirror.xyz/                                         | DeFi; GameFi            |
 | Radia                                  | https://submirror.xyz/radia.eth                                  | NFT                     |
 | TsaiKoga                               | https://submirror.xyz/0xff71512c84096F55cdF5C5f3D3c6AcE99b56feF0 | Web3                    |
+| 社会主义接班人                                | https://submirror.xyz/0x5B8c65ffa85fF42695B2f96A3B6eB6E45BBB4AdD | Web3                    |
 
 ## 什么是 Mirror
 
