@@ -94,7 +94,7 @@
 | Lee Martin                             | https://submirror.xyz/leemartin.eth                              | NFT                     |
 | Cavin                                  | https://submirror.xyz/cavin.eth                                  | Web3                    |
 | Zain Immortal Khan                     | https://submirror.xyz/zainkhan.eth                               | NFT                     |
-| EthereumCN                             | https://submirror.xyz/ethereumcn.eth                             | 以太坊                     |
+| EthereumCN                             | https://ecn.submirror.xyz/                                       | 以太坊                     |
 | David Cai                              | https://submirror.xyz/0x56706F118e42AE069F20c5636141B844D1324AE1 | 以太坊; DeFi               |
 | 搓枣师傅                                   | https://submirror.xyz/momoswap.eth                               | Web3                    |
 | ranbuta                                | https://submirror.xyz/ranbuta.eth                                | Web3                    |
@@ -479,6 +479,10 @@
 | free zone                              | https://submirror.xyz/0xECE7E5150622b0886cd4e0450f4FD40A65C769AE | Web3                    |
 | fancyAlex                              | https://submirror.xyz/fancyalex.eth                              | NFT                     |
 | 三一                                     | https://submirror.xyz/sanyi.eth                                  | Web3                    |
+| SONGCAMP                               | https://submirror.mirror.xyz/                                    | Web3                    |
+| adilharis.eth                          | https://submirror.xyz/adilharis.eth                              | Web3                    |
+| Jose Aguinaga                          | https://submirror.xyz/jjperezaguinaga.eth                        | Web3                    |
+| Max                                    | https://submirror.xyz/0x10B04Fc4c83DeE0c3413cF2EAD42a58550183bbe | Web3                    |
 
 ## 什么是 Mirror
 
