@@ -485,6 +485,10 @@
 | FourWeekMBA                            | https://submirror.xyz/0x94bb73E4CDB9DCDF0a2aD67c1d5D8e73AEB633ac | Ethereum                |
 | Denis Nazarov                          | https://d.submirror.xyz                                          | NFT                     |
 | AllCoreDevs Updates                    | https://tim.submirror.xyz                                        | Web3                    |
+| Jordan Stastny                         | https://submirror.xyz/stastny.eth                                | NFT                     |
+| crypblizz                              | https://submirror.xyz/0x4f63d671A17b774A319eC0Fa3724BC8ffdf8f9AB | Web3                    |
+| This Week in Music NFTs                | https://thisweekinmusicnfts.submirror.xyz/                       | NFT                     |
+| Jay Mavani                             | https://submirror.xyz/jaymavs.eth                                | Web3                    |
 
 ## 什么是 Mirror
 
