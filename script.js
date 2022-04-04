@@ -99,7 +99,7 @@ async function getResultAndUpdateREADME() {
   const readmeContent = `
 # 优质 Mirror 信息源列表
 
-  [![](https://badgen.net/badge/icon/Website?icon=chrome&label)](https://dbarobin.com/) [![](https://badgen.net/badge/icon/Twitter?icon=twitter&label)](https://twitter.com/vrwio)
+[![](https://badgen.net/badge/icon/Twitter?icon=twitter&label)](https://twitter.com/dbarobin)
 
 ## 目录
 
