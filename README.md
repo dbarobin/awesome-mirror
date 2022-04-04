@@ -35,6 +35,7 @@
 | amey                                   | https://submirror.xyz/0x81910c6FD8bA1A67367aA9cA30101c61ce1a30e0 | Web3; DeFi; 空投          |
 | Rocket_ZZ                              | https://submirror.xyz/nbblockchain.eth                           | Web3; DeFi; 空投          |
 | SmartDAO                               | https://submirror.xyz/0xAE623c8B158C3dF75b4f0f3886cA36b49b72f3e9 | DAO                     |
+| sorosdegen                             | https://submirror.xyz/0xsoros.eth                                | Web3; DeFi; DAO         |
 | 马蹄橘子                                   | https://submirror.xyz/0x410a0887cC91cCf1e8Db56422b9a5D8B078c2200 | Web3; DeFi              |
 | W3.Hitchhiker                          | https://submirror.xyz/0xE43a21Ee76b591fe6E479da8a8a388FCfea6F77F | Web3; 教程; Arweave       |
 | K~Erica                                | https://k.submirror.xyz/                                         | Web3; DeFi; GameFi      |
@@ -93,6 +94,7 @@
 | Lee Martin                             | https://submirror.xyz/leemartin.eth                              | NFT                     |
 | Cavin                                  | https://submirror.xyz/cavin.eth                                  | Web3                    |
 | Zain Immortal Khan                     | https://submirror.xyz/zainkhan.eth                               | NFT                     |
+| EthereumCN                             | https://ecn.submirror.xyz/                                       | 以太坊                     |
 | David Cai                              | https://submirror.xyz/0x56706F118e42AE069F20c5636141B844D1324AE1 | 以太坊; DeFi               |
 | 搓枣师傅                                   | https://submirror.xyz/momoswap.eth                               | Web3                    |
 | ranbuta                                | https://submirror.xyz/ranbuta.eth                                | Web3                    |
@@ -111,6 +113,7 @@
 | Thomas Koutsaplis                      | https://submirror.xyz/koutsaplis.eth                             | Web3                    |
 | Cryptouf                               | https://submirror.xyz/cryptouf.eth                               | DAO                     |
 | Jongho Daniel Park                     | https://submirror.xyz/0x80628BC93cC2b8a11043eEe455Cbf8981DB1195F | Web3                    |
+| syshen                                 | https://submirror.xyz/0x956f206BF42B6FCEacacBEb759Bc234921B55eCf | Web3                    |
 | Musashi                                | https://submirror.xyz/0x6b872e9Ae3D38F2c5b79320366ec6173D327213b | Web3                    |
 | DAO Masters                            | https://submirror.xyz/daomstr.eth                                | DAO                     |
 | Oxaciano                               | https://submirror.xyz/0x9Ed6749B5e99059f57f516832982f4E2a212bBf8 | GameFi                  |
@@ -123,12 +126,14 @@
 | CityDAO                                | https://city.submirror.xyz                                       | DAO                     |
 | Daeshawn.eth                           | https://submirror.xyz/daeshawn.eth                               | Web3                    |
 | mikelightz                             | https://submirror.xyz/mikelightz.eth                             | NFT                     |
+| lisawocken                             | https://submirror.xyz/0x74c02fE52A544d3d1775796A9037cE560C40f581 | DAO                     |
 | b_sconeboy                             | https://submirror.xyz/bscone.eth                                 | Web3                    |
 | Hebao                                  | https://submirror.xyz/0xe1fa2F90618b2e37e03D6C8fbE19AdC68714782F | DeFi                    |
 | CHENHUI                                | https://submirror.xyz/bttb.eth                                   | Web3                    |
 | ChainCatcher 链捕手                       | https://submirror.xyz/0x8C4d5E90196325FB22Fff37C97D7984a37e51D11 | Web3; DeFi; 媒体          |
 | Layer3                                 | https://submirror.xyz/0x7B0befc5B043148Cd7bD5cFeEEf7BC63D28edEC0 | Web3                    |
 | 0xEvan                                 | https://submirror.xyz/0x829Ceb00fC74bD087b1e50d31ec628a90894cD52 | DeFi                    |
+| Intel Chen                             | https://submirror.xyz/0x803a0261275d30C7Ab5EAA37F47fD044c5c633Bb | DeFi                    |
 | Nimrod Kamer                           | https://submirror.xyz/nnimrodd.eth                               | NFT                     |
 | Decoin Research Institute              | https://submirror.xyz/dere.eth                                   | Web3; Cosmos; 投研        |
 | axwells.eth                            | https://submirror.xyz/0x257aF56D3389070f0Bd98Ab29829b12282Dae855 | Web3; DeFi              |
@@ -187,6 +192,7 @@
 | Dylan Olivia Hunzeker                  | https://submirror.xyz/0x38050A922eEFc7138E2D39082019908EA1D04a7A | Web3                    |
 | DOOMSDAYX                              | https://submirror.xyz/doomsdayx.eth                              | Web3; NFT               |
 | gem.xyz                                | https://submirror.xyz/0x4247c65610972d04Ca221bcc64Ff35F50c26E0F6 | Metaverse               |
+| _0xken                                 | https://submirror.xyz/0xF36f242CE662b9fe44A203924B6b965e1d5a1B48 | NFT                     |
 | Rabia Fatima                           | https://submirror.xyz/0xD09934912F8D22803465c733C0fDcA00FD384c62 | 以太坊                     |
 | Jonas1997                              | https://submirror.xyz/0x31Ae182A31Bb2c3cfd9e2E3732cc53f7606FB773 | NFT; DeFi               |
 | Keegan小钢                               | https://submirror.xyz/0x546086AfA3D285aCD2c84783c2dCf8F2C23b6433 | DeFi                    |
@@ -219,7 +225,7 @@
 | Jason Zhou                             | https://submirror.xyz/jasonz.eth                                 | Web3                    |
 | saltwater                              | https://submirror.xyz/0xB9D7211EdBf7ADb18C4a6e8C587E5660CD476B8F | Web3                    |
 | Reservoir Protocol                     | https://reservoir.submirror.xyz/                                 | Web3                    |
-| More Than a Gamer                      | https://submirror.xyz/0xb72759927CB072d4db4386Ef53D657F09a79FC92 | NFT                     |
+| More Than a Gamer                      | https://mirror.xyz/0xb72759927CB072d4db4386Ef53D657F09a79FC92    | NFT                     |
 | cosmohm.eth                            | https://submirror.xyz/cosmohm.eth                                | DAO                     |
 | Meagan Loyst                           | https://submirror.xyz/themeaganloyst.eth                         | NFT                     |
 | Coinvise                               | https://coinvise.submirror.xyz/                                  | DeFi                    |
@@ -251,6 +257,7 @@
 | Pranav M Jagtap MD                     | https://submirror.xyz/bhau.eth                                   | DAO                     |
 | Mirror Development                     | https://dev.submirror.xyz/                                       | Web3                    |
 | Forefront                              | https://forefront.submirror.xyz/                                 | Web3                    |
+| 0xben                                  | https://submirror.xyz/0xdbFA537F17118880C708A23518Aa14049ac5FA35 | Web3                    |
 | Joshua Eustis                          | https://submirror.xyz/telefontelaviv.eth                         | ETH                     |
 | XEDRA                                  | https://submirror.xyz/xedra.eth                                  | NFT                     |
 | pseudotheos                            | https://pseudotheos.submirror.xyz/                               | ETH                     |
@@ -278,6 +285,7 @@
 | AsherFishman.eth                       | https://submirror.xyz/0x374E763fBE0FC4e404db4531f7Ee54044019a8A1 | Web3                    |
 | Philip R Powis (The Wizard)            | https://submirror.xyz/philippowis.eth                            | Web3                    |
 | Jackson Oar                            | https://submirror.xyz/0x22034f804960B9B34353d6A7595cC4E83ac0daBe | 跨链                      |
+| IOSG Ventures_CN                       | https://submirror.xyz/0x5Eba828AB4999825D8416D7EAd9563b64FD90276 | 投研                      |
 | Rally                                  | https://submirror.xyz/rallyio.eth                                | NFT                     |
 | 0xCb4B                                 | https://submirror.xyz/0xCb4B8F4810188fCBe96C06ccf8A763eb49f56a29 | Ethereum                |
 | Scott David Meyer                      | https://ed3.submirror.xyz/                                       | DAO                     |
@@ -289,6 +297,7 @@
 | LeoSagan                               | https://submirror.xyz/leosagan.eth                               | DeFi                    |
 | Blockchangehk                          | https://submirror.xyz/0x26943fe785270a31D2D3c8E6E4539213B7980817 | Web3                    |
 | 比特引力                                   | https://submirror.xyz/0x4bE3Aa7AC1508980ef4b2b584b93ca6FB2d70bd1 | DAO; DeFi; Web3         |
+| kuangren                               | https://submirror.xyz/0xAc75b504Dc498D6f5E59127395b5C2e6f991A5a9 | Web3                    |
 | 0xLin                                  | https://submirror.xyz/0xlin.eth                                  | Web3                    |
 | Dot                                    | https://submirror.xyz/dotmusic.eth                               | NFT                     |
 | Aean                                   | https://submirror.xyz/aean.eth                                   | Web3                    |
@@ -305,6 +314,7 @@
 | durneja.eth                            | https://submirror.xyz/durneja.eth                                | DAO                     |
 | Y4000                                  | https://submirror.xyz/y4000.eth                                  | Ethereum; DAO           |
 | Clemlaflemme                           | https://submirror.xyz/clemlaflemme.eth                           | Ethereum                |
+| Crypto Coven                           | https://cryptocoven.submirror.xyz/                               | Web3                    |
 | 导演                                     | https://submirror.xyz/0x76276193e5e0c1aB752470A21BD9a93aCca23243 | Web3                    |
 | haowi.eth                              | https://submirror.xyz/haowi.eth                                  | DeFi                    |
 | seba                                   | https://submirror.xyz/0x5152e31dfF3C7C7fa1f7D90cef6C9EafD56bE7E7 | Web3                    |
@@ -330,6 +340,7 @@
 | maik2hello                             | https://submirror.xyz/0x65684B9D2B06469E88acfc1B88c65912F7BB795B | NFT                     |
 | zoroo.eth                              | https://submirror.xyz/zoroo.eth                                  | Web3                    |
 | 0xSplits                               | https://submirror.xyz/0x50671995E1ECa15Ca9E807774A814331CabE0F3b | Web3                    |
+| Naveen                                 | https://submirror.xyz/0xB38709B8198d147cc9Ff9C133838a044d78B064B | Web3                    |
 | curiousjoe.eth                         | https://submirror.xyz/curiousjoe.eth                             | Web3; DAO               |
 | Research DAO                           | https://submirror.xyz/0xed111Cf8C23AEafe12286Fd60EE670007457Bf87 | DAO                     |
 | Jasmine Xu                             | https://submirror.xyz/jasminexu.eth                              | DeFi                    |
@@ -463,6 +474,7 @@
 | AirDrop Master                         | https://submirror.xyz/0xDf1f3d10efB1B35d9A45a3FB564E08AA0d356490 | Web3                    |
 | 楼 DAO                                  | https://submirror.xyz/maskpad.eth                                | NFT                     |
 | ghiya.eth                              | https://submirror.xyz/ghiya.eth                                  | DAO                     |
+| Saint Rien                             | https://submirror.xyz/0x8ac563233Ba5Ed8B5f0F03260b114a1a5dEf1208 | Web3                    |
 | 1Universe                              | https://submirror.xyz/1universe.eth                              | NFT                     |
 | free zone                              | https://submirror.xyz/0xECE7E5150622b0886cd4e0450f4FD40A65C769AE | Web3                    |
 | fancyAlex                              | https://submirror.xyz/fancyalex.eth                              | NFT                     |
@@ -489,6 +501,18 @@
 | crypblizz                              | https://submirror.xyz/0x4f63d671A17b774A319eC0Fa3724BC8ffdf8f9AB | Web3                    |
 | This Week in Music NFTs                | https://thisweekinmusicnfts.submirror.xyz/                       | NFT                     |
 | Jay Mavani                             | https://submirror.xyz/jaymavs.eth                                | Web3                    |
+| KORNIΞNKO                              | https://mirror.xyz/0x8392A047c57fef1B368f3C026d363b92B9303956    | Web3                    |
+| Intrinsic Research                     | https://mirror.xyz/0xe7175fe936E9AfdEb0CACe5b88E45CEe3387ffb8    | Web3                    |
+| Kiran                                  | https://neuroswish.mirror.xyz                                    | Web3                    |
+| 0x3e49                                 | https://mirror.xyz/0x3e499Ae3D6650636869A4EFC80Ed64bAB20Ec534    | Web3                    |
+| MasterPa                               | https://mirror.xyz/masterpa.eth                                  | Web3                    |
+| Rodney Morris                          | https://mirror.xyz/rodneymorris.eth                              | Web3                    |
+| EricF                                  | https://mirror.xyz/ericclfung.eth                                | Web3                    |
+| elenahoo                               | https://mirror.xyz/elenahoo.eth                                  | NFT                     |
+| Grey Musings                           | https://mirror.xyz/ipshita.eth                                   | Web3                    |
+| TheUberhuman                           | https://mirror.xyz/0xdb7a40cd0aA46aa4E647bbdce8D2D2cF6827C854    | NFT                     |
+| Treaqura                               | https://mirror.xyz/0x211F3a6B74D522A207b90310d69f00f7129E990a    | DeFi                    |
+| Lazy Ant                               | https://mirror.xyz/lazyant.eth                                   | NFT                     |
 
 ## 什么是 Mirror
 
