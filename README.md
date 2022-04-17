@@ -533,6 +533,7 @@
 | diana                                  | https://dc.submirror.xyz                                         | DeFi                    |
 | yueying007                             | https://submirror.xyz/yueying007.eth                             | Ethereum                |
 | Jason                                  | https://submirror.xyz/0x1E2410217C2071046194372Edfd12540b9308029 | Ethereum                |
+| ryanmiaoqi.eth                         | https://submirror.xyz/ryanmiaoqi.eth                             | DeFi                    |
 
 ## 什么是 Mirror
 
