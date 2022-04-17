@@ -534,6 +534,8 @@
 | yueying007                             | https://submirror.xyz/yueying007.eth                             | Ethereum                |
 | Jason                                  | https://submirror.xyz/0x1E2410217C2071046194372Edfd12540b9308029 | Ethereum                |
 | ryanmiaoqi.eth                         | https://submirror.xyz/ryanmiaoqi.eth                             | DeFi                    |
+| cliffton.eth                           | https://submirror.xyz/cliffton.eth                               | DeFi                    |
+| Anbar El Mokri                         | https://submirror.xyz/0xff88c9c03Bf819c9D3090DdB55727486cC70b832 | Web3                    |
 
 ## 什么是 Mirror
 
