@@ -537,6 +537,15 @@
 | cliffton.eth                           | https://submirror.xyz/cliffton.eth                               | DeFi                    |
 | Anbar El Mokri                         | https://submirror.xyz/0xff88c9c03Bf819c9D3090DdB55727486cC70b832 | Web3                    |
 | Web3 随意门                               | https://web3dd.submirror.xyz/                                    | Web3                    |
+| Optimism                               | https://optimism.submirror.xyz                                   | DeFi                    |
+| Kwenta                                 | https://submirror.xyz/kwenta.eth                                 | DeFi                    |
+| metabananas                            | https://submirror.xyz/metabananas.eth                            | NFT                     |
+| DeSpread Creative                      | https://submirror.xyz/0x8BAC0953EC677313d0CF160D5D68D06ffA2fd42D | DeFi                    |
+| RŌHKI                                  | https://submirror.xyz/0x99895960B30A34F8431517c4f5B52A1f4b9854a3 | NFT                     |
+| olly.eth                               | https://submirror.xyz/olly.eth                                   | Web3                    |
+| levychain                              | https://submirror.xyz/levy.eth                                   | NFT                     |
+| Sam.tt                                 | https://submirror.xyz/naivedao.eth                               | DeFi                    |
+| PRST                                   | https://submirror.xyz/prst.eth                                   | Web3                    |
 
 ## 什么是 Mirror
 
