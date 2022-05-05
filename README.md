@@ -546,6 +546,33 @@
 | levychain                              | https://submirror.xyz/levy.eth                                   | NFT                     |
 | Sam.tt                                 | https://submirror.xyz/naivedao.eth                               | DeFi                    |
 | PRST                                   | https://submirror.xyz/prst.eth                                   | Web3                    |
+| poemforshanghai                        | https://submirror.xyz/0x5A82F93a1AA956C0FF1C1818ed0A3F664A99cc91 | Web3                    |
+| Iridium191                             | https://submirror.xyz/iridium191.eth                             | Web3                    |
+| eddie.eth                              | https://submirror.xyz/eddiehsu.eth                               | Web3                    |
+| Row1e                                  | https://submirror.xyz/row1e.eth                                  | NFT                     |
+| Luis McSoul                            | https://submirror.xyz/0x07D179974735D216614DF40fc3cf12D49E8B761E | Web3                    |
+| Naminori                               | https://submirror.xyz/naminorixyz.eth                            | Web3                    |
+| Junior                                 | https://submirror.xyz/0xaaE7a1AD2764626d09a233a9bC06C38b413637cf | Web3                    |
+| TsaiKoga                               | https://koga.submirror.xyz                                       | Web3                    |
+| 一点儿知识                                  | https://submirror.xyz/0x0f3193886aE7eCF1bb1d335c375A0526D4522B34 | Web3                    |
+| Graeme                                 | https://g.submirror.xyz                                          | Ethereum                |
+| Julian Traversa                        | https://submirror.xyz/traversa.eth                               | Ethereum                |
+| stelly.eth                             | https://submirror.xyz/stelly.eth                                 | Web3                    |
+| niklas                                 | https://submirror.xyz/niklasrindtorff.eth                        | Web3                    |
+| Otherside                              | https://submirror.xyz/0x3ae401F245034dAe25af1e2f9b9Bb8F006b1Dc6e | NFT                     |
+| vinson                                 | https://submirror.xyz/bitpush.eth                                | Ethereum                |
+| CY                                     | https://submirror.xyz/camelliayang.eth                           | Web3                    |
+| 0xBi                                   | https://submirror.xyz/0xbi.eth                                   | Bitcoin                 |
+| Derek Walkush                          | https://submirror.xyz/0xFc2b4861650A39a1FfA0e4AF06abE83e16906c8C | NFT                     |
+| rahul                                  | https://submirror.xyz/nonem.eth                                  | Web3                    |
+| Popil                                  | https://submirror.xyz/0x1f648b364A8c8cdc679D0C77e60fd263Fd1D9da8 | Web3                    |
+| Caryn                                  | https://submirror.xyz/0x08EB56AC6f35236B018D0BbD2c38dD0f55C37810 | Web3                    |
+| tovarishch.eth                         | https://submirror.xyz/tovarishch.eth                             | Web3                    |
+| Kayla Phillips                         | https://submirror.xyz/kaylaphillips.eth                          | Web3                    |
+| Chetan Bangalore                       | https://submirror.xyz/cbangalore.eth                             | NFT                     |
+| Kamil Rusjan                           | https://submirror.xyz/0x32aB1EfD78472eD348944745ea3867a1ef4a71B8 | Web3                    |
+| Charlotte Fang                         | https://submirror.xyz/charlemagnefang.eth                        | Web3                    |
+| Yasmine Morrison                       | https://submirror.xyz/0xb381F2e2929d19cA1BC06E11B1db4279DFF5B562 | Web3                    |
 
 ## 什么是 Mirror
 
