@@ -574,6 +574,9 @@
 | Charlotte Fang                         | https://submirror.xyz/charlemagnefang.eth                        | Web3                    |
 | Yasmine Morrison                       | https://submirror.xyz/0xb381F2e2929d19cA1BC06E11B1db4279DFF5B562 | Web3                    |
 | Degen 小博                               | https://submirror.xyz/degen%E5%B0%8F%E5%8D%9A.eth                | Web3                    |
+| blake.x                                | https://submirror.xyz/0xCD432FeFA0bC1B67044eD986BdFdbB9d77AfB05E | Web3                    |
+| Prysm                                  | https://submirror.xyz/0x266B650F92753FD7Be17B7487C8CC3Bd05EFab8A | NFT                     |
+| Hop                                    | https://hop.submirror.xyz                                        | Ethereum                |
 
 ## 什么是 Mirror
 
